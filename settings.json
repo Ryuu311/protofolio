@@ -1,6 +1,6 @@
 {
   "personal": {
-    "name": "Your Name",
+    "name": "RyuuReinzz",
     "title": "Creative Developer",
     "email": "your.email@example.com",
     "tagline": "Crafting digital experiences with precision and creativity",
@@ -11,13 +11,13 @@
     }
   },
   "social": {
-    "github": "https://github.com/yourusername",
-    "linkedin": "https://linkedin.com/in/yourusername",
-    "twitter": "https://twitter.com/yourusername"
+    "github": "https://github.com/Ryuu311",
+    "linkedin": "https://linkedin.com/in/ryuu",
+    "twitter": "https://twitter.com/ryuu_reinzz"
   },
   "seo": {
-    "siteUrl": "https://yourwebsite.com",
-    "siteName": "Your Name Portfolio",
+    "siteUrl": "https://ryuu-dev.my.id",
+    "siteName": "Little Portfolio",
     "siteDescription": "Modern portfolio showcasing creative development and design work. Specializing in React, Next.js, and interactive web experiences.",
     "keywords": [
       "web developer",
@@ -25,13 +25,13 @@
       "react",
       "next.js",
       "ui/ux",
+      "backend developer",
       "frontend developer",
-      "full stack developer",
       "javascript",
       "typescript"
     ],
     "ogImage": "/og-image.jpg",
-    "twitterHandle": "@yourusername",
+    "twitterHandle": "@ryuu_reinzz",
     "googleSiteVerification": "your-verification-code"
   },
   "skills": [
@@ -45,35 +45,35 @@
     },
     {
       "name": "TailwindCSS",
-      "level": 95
+      "level": 45
     },
     {
       "name": "Node.js",
-      "level": 80
+      "level": 89
     },
     {
       "name": "UI/UX Design",
-      "level": 85
+      "level": 55
     },
     {
       "name": "Framer Motion",
-      "level": 90
+      "level": 10
     }
   ],
   "projects": [
     {
-      "title": "Project Alpha",
-      "description": "A modern web application built with Next.js and TypeScript, featuring real-time data synchronization and advanced animations.",
-      "longDescription": "Detailed description of the project, challenges faced, and solutions implemented. Include the impact and results achieved.",
-      "tech": ["Next.js", "TypeScript", "Framer Motion", "TailwindCSS"],
-      "link": "https://project-alpha.com",
-      "github": "https://github.com/yourusername/project-alpha",
+      "title": "Project Haruka Jadibot",
+      "description": "Jadibot website is free for public to use Baileys, express, and ejs libraries to run it, running on a simple nodejs runtime.",
+      "longDescription": "Jadibot website is free for public to use Baileys, express, and ejs libraries to run it, running on a simple nodejs runtime.",
+      "tech": ["Node.js", "TypeScript", "TailwindCSS"],
+      "link": "https://jadibot.ryuu-dev.my.id",
+      "github": "https://github.com/Ryuu311",
       "featured": true,
       "features": [
         "Real-time data synchronization",
-        "Advanced animations with Framer Motion",
         "Responsive design",
-        "SEO optimized"
+        "SEO optimized",
+        "Stable jadibot"
       ],
       "metrics": {
         "performance": "95+ Lighthouse score",
@@ -82,33 +82,17 @@
       }
     },
     {
-      "title": "Project Beta",
-      "description": "E-commerce platform with seamless checkout experience and dynamic product filtering system.",
-      "longDescription": "Built a full-featured e-commerce platform with advanced filtering, cart management, and payment integration.",
-      "tech": ["React", "Node.js", "MongoDB", "Stripe"],
-      "link": "https://project-beta.com",
-      "github": "https://github.com/yourusername/project-beta",
+      "title": "Project Api Endpoint",
+      "description": "Api project to make things easier for WhatsApp bot users.",
+      "longDescription": "runs in a lightweight nodejs environment, using express and ejs as a base to make it easier to modify the UI",
+      "tech": ["React", "Node.js"],
+      "link": "https://api.ryuu-dev.my.id",
+      "github": "https://github.com/Ryuu311",
       "featured": true,
-      "features": [
-        "Seamless checkout process",
-        "Dynamic product filtering",
-        "Payment integration with Stripe",
-        "Admin dashboard"
-      ]
-    },
-    {
-      "title": "Project Gamma",
-      "description": "Interactive data visualization dashboard with real-time analytics and customizable widgets.",
-      "longDescription": "Created an interactive dashboard for data visualization with real-time updates and customizable components.",
-      "tech": ["React", "D3.js", "TailwindCSS", "WebSocket"],
-      "link": "https://project-gamma.com",
-      "github": "https://github.com/yourusername/project-gamma",
-      "featured": false,
-      "features": [
-        "Real-time data updates",
-        "Interactive charts with D3.js",
-        "Customizable widgets",
-        "Export functionality"
+      "features": [          
+        "Admin dashboard",
+        "Free to use",
+        "Make it easier"
       ]
     }
   ],
@@ -241,10 +225,10 @@
     }
   ],
   "contact": {
-    "email": "your.email@example.com",
-    "phone": "+1234567890",
-    "location": "Your City, Country",
-    "availability": "Monday - Friday, 9AM - 6PM (Your Timezone)",
+    "email": "admin@ryuu-dev.my.id",
+    "phone": "+6288246552068",
+    "location": "Pontianak, Indonesian",
+    "availability": "Monday - Friday, 9AM - 6PM",
     "responseTime": "Within 24 hours"
   },
   "files": {
