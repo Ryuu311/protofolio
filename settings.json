@@ -1,34 +1,33 @@
 {
   "personal": {
     "name": "RyuuReinzz",
-    "title": "Creative Developer",
-    "email": "your.email@example.com",
-    "tagline": "Crafting digital experiences with precision and creativity",
-    "description": "Specializing in modern web development and interactive design.",
+    "title": "Backend Developer & Bot Architect",
+    "email": "admin@ryuu-dev.my.id",
+    "tagline": "Turning logic into interactive automation.",
+    "description": "Specializing in WhatsApp Bot development, Node.js backend systems, and hardware integration through IoT.",
     "availability": {
       "status": true,
-      "message": "Available for freelance work"
+      "message": "Open for custom bot development and API integration"
     }
   },
   "social": {
     "github": "https://github.com/Ryuu311",
-    "linkedin": "https://linkedin.com/in/ryuu",
-    "twitter": "https://twitter.com/ryuu_reinzz"
+    "instagram": "https://instagram.com/ryuu_reinzz",
+    "whatsapp": "https://wa.me/6288246552068"
   },
   "seo": {
     "siteUrl": "https://ryuu-dev.my.id",
-    "siteName": "Little Portfolio",
-    "siteDescription": "Modern portfolio showcasing creative development and design work. Specializing in React, Next.js, and interactive web experiences.",
+    "siteName": "Ryuu Dev Portfolio",
+    "siteDescription": "Portfolio of RyuuReinzz, a developer focused on WhatsApp automation, REST APIs, and IoT solutions.",
     "keywords": [
-      "web developer",
-      "portfolio",
-      "react",
-      "next.js",
-      "ui/ux",
-      "backend developer",
-      "frontend developer",
-      "javascript",
-      "typescript"
+      "WhatsApp Bot Developer",
+      "Baileys Library",
+      "Node.js Developer",
+      "REST API Indonesia",
+      "Haruka Bot",
+      "IoT Developer Pontianak",
+      "JavaScript",
+      "Midtrans Integration"
     ],
     "ogImage": "/og-image.jpg",
     "twitterHandle": "@ryuu_reinzz",
@@ -36,202 +35,136 @@
   },
   "skills": [
     {
-      "name": "React / Next.js",
-      "level": 90
+      "name": "Node.js / JavaScript",
+      "level": 95
     },
     {
-      "name": "TypeScript",
+      "name": "Baileys",
+      "level": 92
+    },
+    {
+      "name": "REST API Development",
+      "level": 88
+    },
+    {
+      "name": "Database",
+      "level": 75
+    },
+    {
+      "name": "IoT & ESP32",
+      "level": 70
+    },
+    {
+      "name": "Payment Gateway",
       "level": 85
-    },
-    {
-      "name": "TailwindCSS",
-      "level": 45
-    },
-    {
-      "name": "Node.js",
-      "level": 89
-    },
-    {
-      "name": "UI/UX Design",
-      "level": 55
-    },
-    {
-      "name": "Framer Motion",
-      "level": 10
     }
   ],
   "projects": [
     {
-      "title": "Project Haruka Jadibot",
-      "description": "Jadibot website is free for public to use Baileys, express, and ejs libraries to run it, running on a simple nodejs runtime.",
-      "longDescription": "Jadibot website is free for public to use Baileys, express, and ejs libraries to run it, running on a simple nodejs runtime.",
-      "tech": ["Node.js", "TypeScript", "TailwindCSS"],
+      "title": "Haruka Bot Project",
+      "description": "A sophisticated WhatsApp Bot built with Baileys library featuring automated RPG systems and commercial licensing.",
+      "longDescription": "A multi-functional WhatsApp bot that integrates complex RPG mechanics inspired by Genshin Impact, real-time logging, and automated payment verification using Midtrans.",
+      "tech": ["Node.js", "Baileys", "JavaScript", "EJS"],
       "link": "https://jadibot.ryuu-dev.my.id",
       "github": "https://github.com/Ryuu311",
       "featured": true,
       "features": [
-        "Real-time data synchronization",
-        "Responsive design",
-        "SEO optimized",
-        "Stable jadibot"
+        "Jadibot multi-session system",
+        "RPG Economy System",
+        "Automated Payment Gateway",
+        "Custom Terminal Logger"
       ],
       "metrics": {
-        "performance": "95+ Lighthouse score",
-        "users": "10,000+ monthly active users",
-        "impact": "Increased engagement by 40%"
+        "performance": "Fast Response Time",
+        "users": "Active commercial users",
+        "impact": "Automated community management for hundreds of groups"
       }
     },
     {
-      "title": "Project Api Endpoint",
-      "description": "Api project to make things easier for WhatsApp bot users.",
-      "longDescription": "runs in a lightweight nodejs environment, using express and ejs as a base to make it easier to modify the UI",
-      "tech": ["React", "Node.js"],
+      "title": "RyuuApi's V2",
+      "description": "A centralized API service providing various tools for bot developers.",
+      "longDescription": "Developed a robust REST API using Express.js to serve dynamic content, image manipulation, and downloader tools for the WhatsApp Bot community.",
+      "tech": ["Express.js", "Node.js", "TailwindCSS"],
       "link": "https://api.ryuu-dev.my.id",
       "github": "https://github.com/Ryuu311",
       "featured": true,
       "features": [          
-        "Admin dashboard",
-        "Free to use",
-        "Make it easier"
+        "Secure API Key system",
+        "Comprehensive Documentation",
+        "High Uptime Monitoring"
       ]
-    }
-  ],
-  "testimonials": [
-    {
-      "name": "John Doe",
-      "role": "CEO, Tech Company",
-      "company": "Tech Corp",
-      "avatar": "JD",
-      "content": "Outstanding work! The attention to detail and creativity exceeded our expectations. Highly recommended for any web development project.",
-      "rating": 5
-    },
-    {
-      "name": "Jane Smith",
-      "role": "Product Manager",
-      "company": "Innovation Labs",
-      "avatar": "JS",
-      "content": "Professional, efficient, and incredibly talented. Delivered a stunning website that perfectly captured our brand vision.",
-      "rating": 5
-    },
-    {
-      "name": "Mike Johnson",
-      "role": "Startup Founder",
-      "company": "StartupXYZ",
-      "avatar": "MJ",
-      "content": "Transformed our ideas into a beautiful, functional website. The animations and user experience are top-notch!",
-      "rating": 5
     }
   ],
   "experience": [
     {
-      "title": "Senior Frontend Developer",
-      "company": "Tech Company",
-      "location": "Remote",
-      "startDate": "2022-01",
+      "title": "Independent Bot Developer",
+      "company": "Ryuu-Dev",
+      "location": "Pontianak, Indonesia",
+      "startDate": "2025-08",
       "endDate": null,
       "current": true,
-      "description": "Leading frontend development for multiple high-traffic web applications.",
+      "description": "Managing end-to-end development of WhatsApp automation tools and commercial API services.",
       "achievements": [
-        "Improved performance by 40%",
-        "Led team of 5 developers",
-        "Implemented design system"
+        "Developed and commercialized Haruka Bot source code",
+        "Integrated QRIS payment systems for automated licensing",
+        "Built a community of bot users and developers"
       ],
-      "technologies": ["React", "Next.js", "TypeScript", "TailwindCSS"]
-    },
-    {
-      "title": "Frontend Developer",
-      "company": "Digital Agency",
-      "location": "City, Country",
-      "startDate": "2020-06",
-      "endDate": "2021-12",
-      "current": false,
-      "description": "Developed responsive websites and web applications for various clients.",
-      "achievements": [
-        "Delivered 20+ projects",
-        "Maintained 95+ client satisfaction",
-        "Mentored junior developers"
-      ],
-      "technologies": ["React", "Vue.js", "JavaScript", "SCSS"]
+      "technologies": ["Node.js", "Baileys", "Socket.io"]
     }
   ],
   "education": [
     {
-      "degree": "Bachelor of Computer Science",
-      "institution": "University Name",
-      "location": "City, Country",
-      "startDate": "2016-09",
-      "endDate": "2020-06",
-      "description": "Focused on web development and software engineering.",
+      "degree": "Student / Self-Taught Developer",
+      "institution": "Academic focus in Pontianak",
+      "location": "Pontianak, Indonesia",
+      "startDate": "2024",
+      "endDate": null,
+      "description": "Focusing on software architecture, embedded systems (IoT), and fullstack JavaScript development.",
       "achievements": [
-        "GPA: 3.8/4.0",
-        "Dean's List",
-        "Best Capstone Project Award"
+        "Self-built numerous REST APIs",
+        "Mastery of asynchronous programming in Node.js"
       ]
-    }
-  ],
-  "certifications": [
-    {
-      "name": "AWS Certified Developer",
-      "issuer": "Amazon Web Services",
-      "date": "2023-06",
-      "credentialId": "ABC123XYZ",
-      "url": "https://aws.amazon.com/certification/"
-    },
-    {
-      "name": "Meta Front-End Developer",
-      "issuer": "Meta",
-      "date": "2022-12",
-      "credentialId": "DEF456UVW",
-      "url": "https://www.coursera.org/professional-certificates/meta-front-end-developer"
     }
   ],
   "services": [
     {
-      "title": "Web Development",
-      "description": "Building modern, responsive websites and web applications using the latest technologies.",
-      "icon": "Code2"
+      "title": "WhatsApp Automation",
+      "description": "Custom bot development for business, RPG games, or community management.",
+      "icon": "MessageSquare"
     },
     {
-      "title": "UI/UX Design",
-      "description": "Creating intuitive and beautiful user interfaces that users love.",
-      "icon": "Palette"
+      "title": "API Development",
+      "description": "Building scalable and secure REST APIs for your applications.",
+      "icon": "Server"
     },
     {
-      "title": "Performance Optimization",
-      "description": "Optimizing websites for speed and efficiency without compromising quality.",
-      "icon": "Zap"
+      "title": "IoT Solutions",
+      "description": "Hardware integration and Bluetooth/BLE controller development.",
+      "icon": "Cpu"
     }
   ],
   "stats": [
     {
       "value": 50,
-      "label": "Projects Completed",
-      "suffix": "+"
-    },
-    {
-      "value": 30,
-      "label": "Happy Clients",
-      "suffix": "+"
-    },
-    {
-      "value": 5,
-      "label": "Years Experience",
+      "label": "Bot Plugins Created",
       "suffix": "+"
     },
     {
       "value": 100,
-      "label": "Client Satisfaction",
-      "suffix": "%"
+      "label": "API Users",
+      "suffix": "+"
+    },
+    {
+      "value": 1,
+      "label": "Major Projects",
+      "suffix": " Year+"
     }
   ],
   "contact": {
     "email": "admin@ryuu-dev.my.id",
     "phone": "+6288246552068",
-    "location": "Pontianak, Indonesian",
-    "availability": "Monday - Friday, 9AM - 6PM",
-    "responseTime": "Within 24 hours"
-  },
-  "files": {
-    "cv": "/cv.pdf"
+    "location": "Pontianak, Indonesia",
+    "availability": "Available for custom projects",
+    "responseTime": "Fast response via WhatsApp"
   }
 }
